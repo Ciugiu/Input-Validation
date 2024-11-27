@@ -17,7 +17,7 @@ assets/ index.css main.jsx vite.config.js
 
 1. Clone the repository:
    ```sh
-   git clone <repository-url>
+   git clone https://github.com/Ciugiu/Input-Validation
    cd input-form
    ```
 
